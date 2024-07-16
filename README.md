@@ -42,7 +42,7 @@ Here are some of the technologies and tools that I work with:
   Enhanced a book exchange platform with user authentication and community engagement features.
 
 ## 📫 Let's Connect!
-- **Email**: [pavankalyananumula3@gmail.com](mailto:pavankalyananumula3@gmail.com)
-- **LinkedIn**: [Pavan Kalyan Anumula](https://www.linkedin.com/in/pavan-kalyan-anumula-60967a183/)
+- 📧 [Email](mailto:pavankalyananumula3@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-anumula-60967a183/)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
