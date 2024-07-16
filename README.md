@@ -4,8 +4,6 @@ Welcome to my page!
 
 I'm Pavan Kalyan Anumula, a passionate and results-driven Information Technology graduate student based in Arizona. Currently pursuing my Master's in Information Technology at Arizona State University, with a GPA of 3.93/4.0, I am open to exciting opportunities and eager to contribute to innovative projects.
 
-## 🔧 Technologies and Tools
-Here are some of the technologies and tools that I work with:
 
 ## 🔧 Technologies and Tools
 
