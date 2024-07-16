@@ -44,6 +44,5 @@ Here are some of the technologies and tools that I work with:
 ## 📫 Let's Connect!
 - **Email**: [pavankalyananumula3@gmail.com](mailto:pavankalyananumula3@gmail.com)
 - **LinkedIn**: [Pavan Kalyan Anumula](https://www.linkedin.com/in/pavan-kalyan-anumula-60967a183/)
-- **Phone**: +1-623-419-4775
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
