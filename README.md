@@ -20,33 +20,13 @@ Here are some of the technologies and tools that I work with:
 
 ## 📚 Education
 - **Arizona State University** - Masters in Information Technology (Aug 2022 - May 2024)
-- **Acharya Nagarjuna University** - Bachelors in Information Technology (Jul 2017 - May 2021)
+- **Acharya Nagarjuna University** - Bachelors in Information Technology (Jul 2018 - May 2021)
 
-## 🛠️ Technical Skills
-- **Languages**: Python, Java, JavaScript, TypeScript, SQL, R, Go, Scala, Shell Scripting, C#, C++
-- **Web Technologies and Frameworks**: React, Node.js, Next.js, Spring Boot, REST API, HTML, CSS
-- **Data Engineering and Analysis**: Power BI, Tableau, PostgreSQL, Data Visualization, Database Design, ETL pipelines, MySQL, NoSQL
-- **Microservices Design and Engineering**: AWS, GCP, Docker, Kubernetes, Jenkins, Databricks, CI/CD pipelines
-- **Additional Tools**: Microsoft Office Suite, Google Business Suite, Salesforce CRM
 
 ## 🏆 Certifications
 - AWS Certified Solutions Architect - Amazon Web Services
-- Data Analytics Essentials - Cisco
-- Power BI - PwC (Forage)
 - Certified Software Engineer - HackerRank
 
-## 💼 Experience
-- **Information Technology Intern** at Discount Tire Company (May 2023 - Dec 2023)  
-  Scottsdale, Arizona
-  - Created comprehensive API documentation, enhancing accessibility and understanding of API functionalities.
-  - Analyzed and optimized calculation views, improving query efficiency by 25%.
-  - Resolved complex database and user interface issues.
-
-- **Assistant Systems Engineer** at Tata Consultancy Services (Jan 2021 - Aug 2022)  
-  Bangalore, India
-  - Deployed JIRA, increasing project completion rate by 15%.
-  - Developed a migration strategy, reducing downtime by 30%.
-  - Implemented SAP (ETL) tool, reducing data loading time by 40%.
 
 ## 📈 Projects
 - **Student Housing Insights** | Python, Tableau  
