@@ -19,8 +19,8 @@ Here are some of the technologies and tools that I work with:
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ## 📚 Education
-- **Arizona State University** - Masters in Information Technology (Aug 2022 - May 2024)
-- **Acharya Nagarjuna University** - Bachelors in Information Technology (Jul 2018 - May 2021)
+- **Arizona State University** - Masters 
+- **Acharya Nagarjuna University** - Bachelors
 
 
 ## 🏆 Certifications
