@@ -84,6 +84,14 @@ I'm Pavan Kalyan Anumula, a passionate and results-driven Information Technology
 - **Digital Library** | JavaScript, HTML, CSS  
   Enhanced a book exchange platform with user authentication and community engagement features.
 
+- **Budget Tracker** | JavaScript, HTML, CSS  
+  Developed a budget tracker with user authentication, interactive data visualization with charts, and goal-setting features.
+
+- **Task Manager** | Python, Django  
+  Created a task management application incorporating user authentication, task categorization, and deadline tracking, improving productivity and task organization for users.
+
+  
+
 ## 📫 Let's Connect!
 - 📧 [Email](mailto:panumul1@asu.edu)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-anumula-60967a183/)
