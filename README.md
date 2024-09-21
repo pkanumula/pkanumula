@@ -63,7 +63,6 @@ I'm Pavan Kalyan Anumula, a passionate and results-driven Information Technology
 
 ## 📚 Education
 - **Arizona State University** - Masters 
-- **Acharya Nagarjuna University** - Bachelors
 
 
 ## 🏆 Certifications
