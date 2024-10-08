@@ -96,3 +96,9 @@ I'm Pavan Kalyan Anumula, a passionate and results-driven Information Technology
 - 🌐 [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-anumula-60967a183/)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
+
+## Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=pkanumula&color=green&style=flat)
+
+---
